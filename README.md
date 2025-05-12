@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Apurba mohajan</h1>
 <h3 align="center">A cs student</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/SccrcEKbwJlTNjEBGaAP-Bzp7belSzz74TbjlagxuC4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtYW5ncnktbWFu/LWNvZGluZy11NDB4/eXFyMjZxeWV6NzBm/LmdpZg.gif">
+<img align="right" alt="coding" width="300" src="https://imgs.search.brave.com/SccrcEKbwJlTNjEBGaAP-Bzp7belSzz74TbjlagxuC4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtYW5ncnktbWFu/LWNvZGluZy11NDB4/eXFyMjZxeWV6NzBm/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbamohajan&label=Profile%20views&color=0e75b6&style=flat" alt="apurbamohajan" /> </p>
 
